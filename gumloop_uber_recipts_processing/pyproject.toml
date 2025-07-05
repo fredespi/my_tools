@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Fredrik", email = "fredespi@users.noreply.github.com"}
 ]
 keywords = ["uber", "receipts", "email", "data-extraction"]
 classifiers = [
@@ -41,9 +41,9 @@ extract-uber-data = "extract_uber_data:main"
 process-uber-receipts = "process_uber_receipts:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/uber-receipts-processor"
-Repository = "https://github.com/yourusername/uber-receipts-processor.git"
-Issues = "https://github.com/yourusername/uber-receipts-processor/issues"
+Homepage = "https://github.com/fredespi/my_tools"
+Repository = "https://github.com/fredespi/my_tools.git"
+Issues = "https://github.com/fredespi/my_tools/issues"
 
 [build-system]
 requires = ["hatchling"]
